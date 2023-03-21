@@ -1,6 +1,6 @@
 # Project Title: Competitor Sales data-scrapper
 
-#### Web Scraping Solution for Fortnightly Data Extraction with Mid-level Accuracy
+Web Scraping Solution for Fortnightly Data Extraction with Mid-level Accuracy
 
 ## Project Description: 
 
